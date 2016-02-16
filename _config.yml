@@ -1,7 +1,7 @@
 name: sachinpp
 favicon: null
-layout_spectrum: 0.18540323060005903
-typography_spectrum: 0.724878937471658
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.5788023448549211
-  lightness: 0.5484886218328029
-  saturation: 0.48476892709732056
+    - '#ffffff'
+    - '#161824'
+    - '#6a5c52'
+    - '#bf9891'
+    - '#b42828'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.10789712378755212
 purpose: []
